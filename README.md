@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
+<img align="center"alt="coding"width="100%"src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsuleman&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsuleman" /> </p>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/CodeWithSuleman/CodeWithSuleman/assets/114939749/bce8d92a-fc62-4d28-9fbf-b010d6b8d4c1)
-">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-suleman-06769a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-suleman-06769a259" height="30" width="40" /></a>
