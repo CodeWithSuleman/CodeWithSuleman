@@ -5,15 +5,60 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsuleman&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsuleman" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-suleman-06769a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-suleman-06769a259" height="30" width="40" /></a>
-<a href="https://fb.com/daniyal.aqeel.5201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniyal.aqeel.5201" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammed.suleman.5201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammed.suleman.5201" height="30" width="40" /></a>
-</p>
+<div id="badges" align="center">
+<a href="https://linkedin.com/in/muhammad-suleman-06769a259" target="blank">
+   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
+</a>
+<a href="[https://fb.com/daniyal.aqeel.5201](https://www.facebook.com/daniyal.aqeel.5201?mibextid=JRoKGi)" target="blank">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
+</a>
+<a href="https://www.instagram.com/sheikh_muhammad_suleman__/" target="blank">
+  <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com/~codewithsuleman" target="blank">
+  <img  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff" />
+</a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsuleman&show_icons=true&locale=en&layout=compact" alt="codewithsuleman" /></p>
+<!--who am I-->
+<div align="left">
+  <h1 align="left">Did you know
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
+</div>
+<div align="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
+  
+<div align="left">
+  <ul>
+  <li>🌍 Based in Karachi, Pakistan</li>
+  <li>📚 Studying Artificial Intelligence from Sidh Madressatul Islam University</li>
+  <li>🚀 Passionate about exploring the world of code and logics</li>
+</ul>
+</div>
+ </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
+ <h2 align="left">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSuleman&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsuleman&show_icons=true&locale=en&layout=compact&theme=dark" alt="codewithsuleman" />
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsuleman&theme=dark" alt="codewithsuleman" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsuleman&" alt="codewithsuleman" /></p>
+</div>
+
