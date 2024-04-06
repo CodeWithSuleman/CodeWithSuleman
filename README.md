@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
+<h1 align="center">Hey 👋, I'm Muhammad Suleman</h1>
 <img align="center"alt="coding"width="100%"src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsuleman&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsuleman" /> </p>
 
@@ -26,27 +26,34 @@
   <h1 align="left">Did you know
     <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
 </div>
-<div align="center">
+
+<div>
+<div align="right">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
-  
-<div align="left">
-  <ul>
+</div>  
+   <div align="left">
+       <ul>
+  <li>💻 Coding</li>
   <li>🌍 Based in Karachi, Pakistan</li>
   <li>📚 Studying Artificial Intelligence from Sidh Madressatul Islam University</li>
+  <li>🌱 Learning new Technologies</li>
   <li>🚀 Passionate about exploring the world of code and logics</li>
+  <li>😄 Pronouns: He/Him/His</li>
+  <li>
+⚡ Fun fact: I love to learn about software development!</li>
 </ul>
-</div>
+      <hr>
+   </div>
+ 
+
  </div>
-<br>
-<br>
-<br>
-<br>
- <hr>
+ <br>
  <h2 align="left">Tools and Technologies 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <br>
   <br>
