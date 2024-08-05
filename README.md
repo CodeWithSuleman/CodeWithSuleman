@@ -9,6 +9,10 @@
 <a href="https://linkedin.com/in/muhammad-suleman-06769a259" target="blank">
    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
 </a>
+   <a href="mailto:your.email@example.com" target="blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=ffffff" alt="Gmail">
+</a>
+
 <a href="[https://fb.com/daniyal.aqeel.5201](https://www.facebook.com/daniyal.aqeel.5201?mibextid=JRoKGi)" target="blank">
  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
 </a>
