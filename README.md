@@ -52,32 +52,50 @@
 
  </div>
  <br>
- <h2 align="left">Tools and Technologies 🛠</h2>
+<h2 align="left">Tools and Technologies 🛠</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
 
-<img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+  <br>
 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br>
 
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib Badge" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Agentic_AI-00A86B?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents Badge" />
+  <img src="https://img.shields.io/badge/MCP-D32F2F?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Badge" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 
   <br>
   <br>
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSuleman&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsuleman&show_icons=true&locale=en&layout=compact&theme=dark" alt="codewithsuleman" />
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsuleman&theme=dark" alt="codewithsuleman" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsuleman&show_icons=true&locale=en&layout=compact&theme=dark" alt="codewithsuleman" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsuleman&theme=dark" alt="codewithsuleman" />
 
 </div>
 
+      
